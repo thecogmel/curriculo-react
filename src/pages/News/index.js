@@ -16,6 +16,7 @@ function News() {
     }),
 
     onSubmit: (values) => {
+      // eslint-disable-next-line
       alert(JSON.stringify(values, null, 2));
     },
   });
