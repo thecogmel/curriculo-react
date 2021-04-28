@@ -1,6 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import { Container, Col, Row, Card, Button, ListGroup } from 'react-bootstrap';
+import { Container, Col, Row, Card, ListGroup } from 'react-bootstrap';
 import NavbarTads from '../../components/NavbarTads';
 import logoTads from '../../assets/nometadsbg.png';
 import logoufrn from '../../assets/ufrn-logo.png';
