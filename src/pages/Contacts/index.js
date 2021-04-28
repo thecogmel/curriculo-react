@@ -2,8 +2,8 @@ import React from 'react';
 
 // import { Container } from './styles';
 
-function Home2() {
+function Contacts() {
   return <h1>Hello caraio</h1>;
 }
 
-export default Home2;
+export default Contacts;
